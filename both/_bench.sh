@@ -1,6 +1,5 @@
 #!/bin/bash
 
 
-sudo perf stat --pid 1503 >> bench_pull_perf.txt
-docker exec benchmark sysbench --test=cpu --cpu-max-prime=10000 run >> bench_pull.txt
+sudo perf stat -0 bench_pull_perf.txt --time 800 --pid 2143 & docker exec benchmark sysbench --test=cpu --cpu-max-prime=10000 run >> bench_pull.txt
 echo benchmark done

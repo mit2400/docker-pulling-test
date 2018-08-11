@@ -1,480 +1,480 @@
-Sampling eth0 (10 seconds average)...[1G[2K8127 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K6352 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx         7.78 Mbit/s           715 packets/s
-      tx        78.99 kbit/s            97 packets/s
+      rx         6.10 Mbit/s           558 packets/s
+      tx        67.36 kbit/s            77 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K46785 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K38215 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        49.50 Mbit/s          4300 packets/s
-      tx       194.91 kbit/s           378 packets/s
+      rx        40.41 Mbit/s          3499 packets/s
+      tx       167.36 kbit/s           322 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K44770 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K37532 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        47.31 Mbit/s          4114 packets/s
-      tx       189.19 kbit/s           362 packets/s
+      rx        39.82 Mbit/s          3437 packets/s
+      tx       162.63 kbit/s           315 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K35635 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K32288 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        37.43 Mbit/s          3271 packets/s
-      tx       154.51 kbit/s           292 packets/s
+      rx        34.00 Mbit/s          2934 packets/s
+      tx       154.92 kbit/s           294 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K37610 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K27344 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        39.64 Mbit/s          3442 packets/s
-      tx       167.54 kbit/s           318 packets/s
+      rx        28.77 Mbit/s          2491 packets/s
+      tx       128.57 kbit/s           243 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K38908 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K29635 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        41.14 Mbit/s          3566 packets/s
-      tx       167.11 kbit/s           324 packets/s
+      rx        31.13 Mbit/s          2677 packets/s
+      tx       150.11 kbit/s           286 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K35331 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K27538 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        37.37 Mbit/s          3221 packets/s
-      tx       160.91 kbit/s           312 packets/s
+      rx        28.86 Mbit/s          2484 packets/s
+      tx       139.27 kbit/s           269 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K37940 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K27170 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        40.17 Mbit/s          3469 packets/s
-      tx       167.22 kbit/s           324 packets/s
+      rx        28.48 Mbit/s          2455 packets/s
+      tx       134.94 kbit/s           261 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K35114 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K28137 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        37.16 Mbit/s          3207 packets/s
-      tx       156.52 kbit/s           303 packets/s
+      rx        29.40 Mbit/s          2542 packets/s
+      tx       139.93 kbit/s           271 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K34833 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K22593 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        36.85 Mbit/s          3204 packets/s
-      tx       144.04 kbit/s           279 packets/s
+      rx        23.64 Mbit/s          2045 packets/s
+      tx       110.50 kbit/s           214 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K31619 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K30169 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        33.33 Mbit/s          2895 packets/s
-      tx       137.28 kbit/s           266 packets/s
+      rx        31.73 Mbit/s          2737 packets/s
+      tx       144.13 kbit/s           279 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K14562 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K32871 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        15.27 Mbit/s          1334 packets/s
-      tx        63.00 kbit/s           122 packets/s
+      rx        34.48 Mbit/s          2974 packets/s
+      tx       161.20 kbit/s           312 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K17626 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K30979 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        18.54 Mbit/s          1618 packets/s
-      tx        74.30 kbit/s           144 packets/s
+      rx        32.75 Mbit/s          2845 packets/s
+      tx       130.09 kbit/s           252 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K18271 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K23753 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        19.26 Mbit/s          1678 packets/s
-      tx        76.52 kbit/s           148 packets/s
+      rx        24.70 Mbit/s          2178 packets/s
+      tx       101.63 kbit/s           197 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K18372 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K15839 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        19.43 Mbit/s          1689 packets/s
-      tx        76.20 kbit/s           147 packets/s
+      rx        16.39 Mbit/s          1456 packets/s
+      tx        65.59 kbit/s           127 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K18323 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K16208 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        19.16 Mbit/s          1673 packets/s
-      tx        82.04 kbit/s           159 packets/s
+      rx        16.92 Mbit/s          1482 packets/s
+      tx        71.31 kbit/s           138 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K15688 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K18198 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        16.42 Mbit/s          1438 packets/s
-      tx        67.24 kbit/s           130 packets/s
+      rx        19.08 Mbit/s          1674 packets/s
+      tx        74.81 kbit/s           145 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K4954 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K17518 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx         5.04 Mbit/s           454 packets/s
-      tx        21.05 kbit/s            40 packets/s
+      rx        18.42 Mbit/s          1609 packets/s
+      tx        73.37 kbit/s           142 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K207 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K16886 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        20.09 kbit/s            20 packets/s
+      rx        17.66 Mbit/s          1548 packets/s
+      tx        72.33 kbit/s           140 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K15786 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        16.51 Mbit/s          1454 packets/s
+      tx        63.96 kbit/s           124 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K209 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        21.02 kbit/s            20 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K346 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K181 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        27.95 kbit/s            34 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K208 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        18.97 kbit/s            20 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K204 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        19.10 kbit/s            20 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K333 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        27.73 kbit/s            33 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K270 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        22.61 kbit/s            27 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K604 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        43.01 kbit/s            60 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K401 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        30.53 kbit/s            40 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K316 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        27.31 kbit/s            31 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K247 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        22.91 kbit/s            24 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K281 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        23.61 kbit/s            28 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K316 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        29.69 kbit/s            31 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K303 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        25.45 kbit/s            30 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K337 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        30.35 kbit/s            33 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K252 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        22.97 kbit/s            25 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K401 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        31.37 kbit/s            40 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K464 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        37.60 kbit/s            46 packets/s
+      rx        20.69 kbit/s            18 packets/s
       tx         0.00 kbit/s             0 packets/s
 
 Sampling eth0 (10 seconds average)...[1G[2K288 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        23.50 kbit/s            28 packets/s
+      rx        28.47 kbit/s            28 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K236 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K201 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        20.91 kbit/s            23 packets/s
+      rx        19.64 kbit/s            20 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K242 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K216 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        23.23 kbit/s            24 packets/s
+      rx        19.80 kbit/s            21 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K356 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K235 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        25.79 kbit/s            35 packets/s
-      tx         0.04 kbit/s             0 packets/s
+      rx        24.80 kbit/s            23 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K213 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        19.43 kbit/s            21 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K185 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        17.67 kbit/s            18 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K271 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        28.10 kbit/s            27 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K218 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        17.24 kbit/s            21 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K234 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        23.53 kbit/s            23 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K230 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        22.06 kbit/s            23 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K246 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        19.21 kbit/s            24 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K194 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        19.46 kbit/s            19 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K217 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        25.83 kbit/s            21 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K287 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        21.07 kbit/s            28 packets/s
+      tx         0.00 kbit/s             0 packets/s
 
 Sampling eth0 (10 seconds average)...[1G[2K419 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        26.33 kbit/s            41 packets/s
+      rx        40.72 kbit/s            41 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K317 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K465 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        25.12 kbit/s            31 packets/s
+      rx        38.54 kbit/s            46 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K242 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K398 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        26.87 kbit/s            24 packets/s
+      rx        32.04 kbit/s            39 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K229 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K306 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        22.71 kbit/s            22 packets/s
+      rx        29.25 kbit/s            30 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K214 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K322 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        20.69 kbit/s            21 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K260 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        22.14 kbit/s            26 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K196 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        19.08 kbit/s            19 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K247 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        28.02 kbit/s            24 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K267 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        21.66 kbit/s            26 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K204 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        19.77 kbit/s            20 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K224 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        22.16 kbit/s            22 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K319 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        32.43 kbit/s            31 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K159 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        15.47 kbit/s            15 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K239 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        23.14 kbit/s            23 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K451 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        31.94 kbit/s            44 packets/s
-      tx         0.16 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K167 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        15.14 kbit/s            16 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K229 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        24.35 kbit/s            22 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K245 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        21.09 kbit/s            24 packets/s
-      tx         0.04 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K163 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        15.31 kbit/s            16 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K191 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        21.08 kbit/s            19 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K259 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        22.90 kbit/s            25 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K209 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        19.10 kbit/s            20 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K224 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        27.37 kbit/s            22 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K397 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        48.10 kbit/s            39 packets/s
+      rx        28.97 kbit/s            32 packets/s
       tx         0.00 kbit/s             0 packets/s
 
 Sampling eth0 (10 seconds average)...[1G[2K334 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        29.32 kbit/s            33 packets/s
+      rx        26.46 kbit/s            33 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K304 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K254 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        32.15 kbit/s            30 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K281 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        28.85 kbit/s            28 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K170 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        18.76 kbit/s            17 packets/s
-      tx         0.00 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K242 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        21.99 kbit/s            24 packets/s
+      rx        21.73 kbit/s            25 packets/s
       tx         0.04 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K244 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K232 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        20.26 kbit/s            24 packets/s
+      rx        23.06 kbit/s            23 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K169 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K321 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        18.97 kbit/s            16 packets/s
+      rx        23.92 kbit/s            32 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K243 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K220 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        22.18 kbit/s            24 packets/s
-      tx         0.12 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K235 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        19.21 kbit/s            23 packets/s
+      rx        19.71 kbit/s            22 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K235 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K195 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        19.67 kbit/s            23 packets/s
+      rx        22.12 kbit/s            19 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K270 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K230 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        23.08 kbit/s            26 packets/s
-      tx         0.08 kbit/s             0 packets/s
-
-Sampling eth0 (10 seconds average)...[1G[2K264 packets sampled in 10 seconds
-Traffic average for eth0
-
-      rx        26.18 kbit/s            26 packets/s
+      rx        21.80 kbit/s            23 packets/s
       tx         0.00 kbit/s             0 packets/s
 
 Sampling eth0 (10 seconds average)...[1G[2K186 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        17.99 kbit/s            18 packets/s
+      rx        20.30 kbit/s            18 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K172 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K221 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        18.39 kbit/s            17 packets/s
+      rx        25.47 kbit/s            22 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K208 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        16.92 kbit/s            20 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K196 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        18.03 kbit/s            19 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K217 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        23.66 kbit/s            21 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K226 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        20.68 kbit/s            22 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K214 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        22.36 kbit/s            21 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K195 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        18.90 kbit/s            19 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K209 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        16.70 kbit/s            20 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K260 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        28.24 kbit/s            26 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K185 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        24.24 kbit/s            18 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K232 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        18.10 kbit/s            23 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K303 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        32.26 kbit/s            30 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K173 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        15.81 kbit/s            17 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K247 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        21.53 kbit/s            24 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K199 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        22.22 kbit/s            19 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K176 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        17.25 kbit/s            17 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K234 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        20.08 kbit/s            23 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K295 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        28.40 kbit/s            29 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K343 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        28.95 kbit/s            34 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K287 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        23.10 kbit/s            28 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K251 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        26.11 kbit/s            25 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K161 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        15.02 kbit/s            16 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K349 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        30.60 kbit/s            34 packets/s
       tx         0.04 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K256 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K385 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        24.30 kbit/s            25 packets/s
+      rx        28.29 kbit/s            38 packets/s
       tx         0.00 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K291 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K356 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        27.07 kbit/s            28 packets/s
+      rx        24.30 kbit/s            35 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K205 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        17.84 kbit/s            20 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K238 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        22.86 kbit/s            23 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K145 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        14.28 kbit/s            14 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K229 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        22.92 kbit/s            22 packets/s
+      tx         0.00 kbit/s             0 packets/s
+
+Sampling eth0 (10 seconds average)...[1G[2K241 packets sampled in 10 seconds
+Traffic average for eth0
+
+      rx        23.02 kbit/s            23 packets/s
       tx         0.08 kbit/s             0 packets/s
 
-Sampling eth0 (10 seconds average)...[1G[2K418 packets sampled in 10 seconds
+Sampling eth0 (10 seconds average)...[1G[2K193 packets sampled in 10 seconds
 Traffic average for eth0
 
-      rx        29.79 kbit/s            41 packets/s
-      tx         0.20 kbit/s             0 packets/s
+      rx        19.96 kbit/s            19 packets/s
+      tx         0.00 kbit/s             0 packets/s
 

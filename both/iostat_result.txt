@@ -1,242 +1,242 @@
 Linux 4.14.52-v7+ (raspberrypi) 	11/08/18 	_armv7l_	(4 CPU)
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           4.32       117.51       395.30     157097     528445
+mmcblk0           7.90       292.82      1252.57    1521713    6509237
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           1.90         0.00       565.20          0       5652
+mmcblk0          34.47      1651.15         9.19      16528         92
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           0.40         0.00         7.20          0         72
+mmcblk0           4.50         0.00       891.60          0       8916
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          22.80         0.40     10572.40          4     105724
+mmcblk0           8.80         0.00      3694.00          0      36940
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           2.60        28.80       388.80        288       3888
+mmcblk0          38.60      2040.00      6840.40      20400      68404
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          28.90         2.00      8419.20         20      84192
+mmcblk0           8.70         0.00      2912.00          0      29120
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          14.70         0.00      5584.00          0      55840
+mmcblk0          15.60         0.00      6953.20          0      69532
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          16.90         0.00      7308.00          0      73080
+mmcblk0          12.20         0.40      4106.40          4      41064
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          16.50         0.00      6930.40          0      69304
+mmcblk0          14.30         0.00      5979.60          0      59796
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          25.30         0.40      9131.20          4      91312
+mmcblk0          11.90        12.80      4534.00        128      45340
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          25.10         1.20      5468.40         12      54684
+mmcblk0          12.70         0.00      5534.00          0      55340
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           9.80         0.00      3854.80          0      38548
+mmcblk0          18.90         0.80      6940.40          8      69404
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          14.70         0.00      5108.40          0      51084
+mmcblk0          14.20         1.60      2636.80         16      26368
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          11.40         9.60      4031.60         96      40316
+mmcblk0          17.30         0.00      4617.60          0      46176
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          19.50       702.40      4430.40       7024      44304
+mmcblk0          13.30         0.40      6157.20          4      61572
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          17.10       716.80      4840.40       7168      48404
+mmcblk0           4.10         0.00       655.60          0       6556
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          25.10       691.60      8358.00       6916      83580
+mmcblk0          22.30       347.60      8044.80       3476      80448
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          15.10       832.00      3483.20       8320      34832
+mmcblk0          18.20       614.40      4959.60       6144      49596
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          18.40       691.60      5684.80       6916      56848
+mmcblk0          14.20       588.80      4339.60       5888      43396
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          10.30      1254.40         9.20      12544         92
+mmcblk0          20.80       614.40      6164.40       6144      61644
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          24.60       717.20      7746.00       7172      77460
+mmcblk0          11.20       717.60      2540.40       7176      25404
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           5.40       526.00        77.20       5260        772
+mmcblk0          22.10       806.80      6061.60       8068      60616
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          16.80      1139.20      2543.20      11392      25432
+mmcblk0          12.80      1216.00      1550.40      12160      15504
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          21.00      1113.60      5197.20      11136      51972
+mmcblk0          11.20       947.20       764.80       9472       7648
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          10.10      1228.80        28.40      12288        284
+mmcblk0          19.00       422.40      7398.00       4224      73980
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          13.40      1049.60      1592.80      10496      15928
+mmcblk0           9.30       999.60        64.00       9996        640
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          22.10       743.20      6276.40       7432      62764
+mmcblk0          16.50      1344.00      1560.40      13440      15604
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           9.20      1076.00       138.80      10760       1388
+mmcblk0          21.70      1024.00      6077.20      10240      60772
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          17.40      1548.80      1394.00      15488      13940
+mmcblk0           8.80      1062.40        33.60      10624        336
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          27.00      1254.80      6885.60      12548      68856
+mmcblk0          18.50       704.40      4570.80       7044      45708
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          31.90      2553.20       172.40      25532       1724
+mmcblk0          17.40       750.40      3286.00       7504      32860
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           8.80      1036.80        88.00      10368        880
+mmcblk0          12.50      1536.00        25.60      15360        256
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          32.10       960.00      5662.40       9600      56624
+mmcblk0          15.20      1510.80       936.00      15108       9360
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          18.80      1049.60      3837.20      10496      38372
+mmcblk0          62.50      3866.80      2606.80      38668      26068
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           7.60       908.80        66.00       9088        660
+mmcblk0          23.30       948.00      3909.60       9480      39096
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          17.40       918.00      2694.00       9180      26940
+mmcblk0          27.00      1024.00      4987.60      10240      49876
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          19.90       960.00      5154.80       9600      51548
+mmcblk0          10.60      1305.60        13.20      13056        132
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           7.70       922.00        30.80       9220        308
+mmcblk0          10.80       793.60      1696.00       7936      16960
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          29.30       990.00      5970.40       9900      59704
+mmcblk0          19.80       756.00      5968.40       7560      59684
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          10.10       653.20      1858.40       6532      18584
+mmcblk0          10.70      1019.60       190.40      10196       1904
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          22.90       704.00      5674.80       7040      56748
+mmcblk0          21.40      1075.20      3333.20      10752      33332
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          10.50       729.60      1884.80       7296      18848
+mmcblk0          20.50       783.60      5318.40       7836      53184
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          12.10       793.60      1992.00       7936      19920
+mmcblk0          10.00       802.80       108.80       8028       1088
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          18.60       666.00      5783.60       6660      57836
+mmcblk0          28.40       704.40      7596.00       7044      75960
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          10.60       768.00      1127.20       7680      11272
+mmcblk0           7.30       806.40       236.40       8064       2364
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          20.00       716.80      6606.80       7168      66068
+mmcblk0          22.10       729.60      6891.60       7296      68916
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          11.00      1276.40        17.60      12764        176
+mmcblk0           8.50       819.20       693.20       8192       6932
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          19.10      1049.60      4227.60      10496      42276
+mmcblk0          23.40       717.20      7713.60       7172      77136
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          17.10      1044.00      4340.00      10440      43400
+mmcblk0           6.80       806.40        16.40       8064        164
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           6.70       458.40       111.20       4584       1112
+mmcblk0          22.60       981.20      6287.20       9812      62872
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          28.80       602.40      7631.20       6024      76312
+mmcblk0          13.10      1255.20      1190.80      12552      11908
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           7.30       744.40         9.20       7444         92
+mmcblk0           9.60      1164.80        10.40      11648        104
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          25.20       525.60      8082.80       5256      80828
+mmcblk0          16.70       440.40      4158.00       4404      41580
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           8.00       960.40         6.80       9604         68
+mmcblk0          26.00      1978.40      3449.20      19784      34492
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          14.70       691.20      4084.40       6912      40844
+mmcblk0          22.40       666.40      4472.40       6664      44724
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          15.00       652.80      4917.60       6528      49176
+mmcblk0          18.40       769.60      5201.20       7696      52012
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           7.50       908.80         5.20       9088         52
+mmcblk0           8.70       908.80       180.40       9088       1804
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          14.30      1011.60      2418.00      10116      24180
+mmcblk0          23.20       588.80      9229.60       5888      92296
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          19.80       822.80      6335.20       8228      63352
+mmcblk0           6.30       742.40         3.60       7424         36
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           6.00       716.80        16.40       7168        164
+mmcblk0          11.70       973.20      1186.80       9732      11868
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          22.50       678.40      7613.20       6784      76132
+mmcblk0          19.30       819.60      6303.20       8196      63032
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           6.20       729.60        12.40       7296        124
+mmcblk0           7.40       896.00        14.40       8960        144
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          23.00       704.40      7161.20       7044      71612
+mmcblk0          21.80       499.20      7788.80       4992      77888
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           7.30       729.60       441.60       7296       4416
+mmcblk0           6.40       755.20        14.40       7552        144
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          24.78       703.30      7694.31       7040      77020
+mmcblk0          17.90       678.80      4950.80       6788      49508
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           6.20       729.60        15.60       7296        156
+mmcblk0          12.00       659.60      2589.20       6596      25892
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          25.50       551.60      8274.80       5516      82748
+mmcblk0          20.90       691.20      5959.20       6912      59592
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           4.70       537.60        23.20       5376        232
+mmcblk0           9.80       704.00      1605.60       7040      16056
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          31.20       874.00      7060.40       8740      70604
+mmcblk0          18.70       704.40      5152.80       7044      51528
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          15.60      1070.80       666.80      10708       6668
+mmcblk0          11.20       652.80      2540.80       6528      25408
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          16.60      1267.20      1549.60      12672      15496
+mmcblk0          22.20       597.60      6337.60       5976      63376
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          24.80       909.60      7702.40       9096      77024
+mmcblk0          10.60       654.00      1317.60       6540      13176
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          10.30      1188.00         6.40      11880         64
+mmcblk0          18.00       803.60      2518.80       8036      25188
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          16.60       755.20      4270.00       7552      42700
+mmcblk0          21.40      1114.40      5220.00      11144      52200
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          17.30       726.00      5353.20       7260      53532
+mmcblk0           9.50      1164.80         7.60      11648         76
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0           8.60       973.20         4.80       9732         48
+mmcblk0          26.40       921.60      7919.20       9216      79192
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          19.40       653.20      6780.00       6532      67800
+mmcblk0           7.50       871.60        23.60       8716        236
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          11.50       730.00      2806.00       7300      28060
+mmcblk0          12.20       688.00      1879.60       6880      18796
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          10.70       819.20      1753.20       8192      17532
+mmcblk0          20.00       883.20      6696.00       8832      66960
 
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
-mmcblk0          18.70       858.00      5947.60       8580      59476
+mmcblk0           6.40       768.00         6.80       7680         68
 
