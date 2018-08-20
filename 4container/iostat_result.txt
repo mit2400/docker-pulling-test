@@ -1,0 +1,44 @@
+Linux 4.14.52-v7+ (raspberrypi) 	20/08/18 	_armv7l_	(4 CPU)
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          23.03      1966.79      1206.20    2299253    1410093
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          13.78        22.53      3246.13       1352     194768
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          20.50        51.60      8349.13       3096     500948
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          24.03      1544.47      4496.80      92668     269808
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          27.23      1766.60      3911.73     105996     234704
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          25.00      1218.93      5452.67      73136     327160
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          26.42      1515.20      5112.47      90912     306748
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          21.40      1138.67      5465.00      68320     327900
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          23.17      1256.87      5066.40      75412     303984
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          24.22      1148.47      4377.60      68908     262656
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          61.15       893.87       867.87      53632      52072
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           8.50       350.80         6.40      21048        384
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           9.45       209.47         5.33      12568        320
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           0.55         0.00         3.60          0        216
+

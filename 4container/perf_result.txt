@@ -1,0 +1,16 @@
+# started on Mon Aug 20 07:34:51 2018
+
+
+ Performance counter stats for process id '2987':
+
+      78057.795532      task-clock (msec)         #    1.301 CPUs utilized          
+            99,009      context-switches          #    0.001 M/sec                  
+               533      cpu-migrations            #    0.007 K/sec                  
+            33,941      page-faults               #    0.435 K/sec                  
+    91,528,002,048      cycles                    #    1.173 GHz                    
+    80,342,437,654      instructions              #    0.88  insn per cycle           (99.99%)
+     2,707,443,073      branches                  #   34.685 M/sec                    (99.99%)
+       234,269,015      branch-misses             #    8.65% of all branches          (99.99%)
+
+      60.008735089 seconds time elapsed
+

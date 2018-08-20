@@ -1,3 +1,3 @@
-#!/bin/bench
+#!/bin/bash
 
-sysbench --test=cpu --cpu-max-prime==10000 run >> bench_alone.txt
+sysbench --test=cpu --cpu-max-prime=10000 run >> bench_alone.txt
