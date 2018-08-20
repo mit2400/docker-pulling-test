@@ -42,3 +42,33 @@ mmcblk0           9.45       209.47         5.33      12568        320
 Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
 mmcblk0           0.55         0.00         3.60          0        216
 
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           2.47         8.80        15.80        528        948
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           1.12         0.20        10.00         12        600
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           0.75         4.13         6.60        248        396
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           0.50         0.00         4.40          0        264
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           0.27         0.00         1.33          0         80
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           0.23         0.67         2.20         40        132
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           0.75         0.00         6.27          0        376
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           0.75         0.00         6.27          0        376
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0           9.07       406.60      1347.00      24396      80820
+
+Device:            tps    kB_read/s    kB_wrtn/s    kB_read    kB_wrtn
+mmcblk0          30.17       298.73     10934.93      17924     656096
+
