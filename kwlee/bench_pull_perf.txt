@@ -1,0 +1,16 @@
+# started on Mon Aug 27 05:48:35 2018
+
+
+ Performance counter stats for process id '1158':
+
+      59715.046754      task-clock (msec)         #    0.999 CPUs utilized          
+               678      context-switches          #    0.011 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+                 0      page-faults               #    0.000 K/sec                  
+    71,654,834,092      cycles                    #    1.200 GHz                    
+    73,160,961,462      instructions              #    1.02  insn per cycle         
+     7,756,454,565      branches                  #  129.891 M/sec                  
+     2,021,738,942      branch-misses             #   26.07% of all branches        
+
+      59.757174454 seconds time elapsed
+

@@ -1,0 +1,11 @@
+# started on Mon Aug 27 06:42:10 2018
+
+
+ Performance counter stats for process id '1446':
+
+         1,071,421      cache-misses                                                
+             1,270      context-switches                                            
+                 2      page-faults                                                 
+
+      60.002586552 seconds time elapsed
+
